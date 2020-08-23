@@ -28,6 +28,7 @@ public class Main implements Directions {
        jo.hop();
        jo.plant();
        jo.hop();
+       //hop 
      
     }
 
